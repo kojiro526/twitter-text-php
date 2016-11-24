@@ -2,7 +2,7 @@
   "name": "kojiro526/twitter-text-php",
   "description": "A library of PHP classes that provide auto-linking and extraction of usernames, lists, hashtags and URLs from tweets.",
   "keywords": ["twitter", "text", "autolink", "extract"],
-  "homepage": "https://github.com/nojimage/twitter-text-php",
+  "homepage": "https://github.com/kojiro526/twitter-text-php",
   "type": "library",
   "license": "Apache-2.0",
   "authors": [
